@@ -14,13 +14,13 @@ from config import Config
 class Translation(object):
   START_TXT = """Hey {}
 
-➻ I Am A Advanced Auto Forward Bot
+➻ I Am A Advanced Auto Forward Bot with high speed
   
 ➻ I Can Forward All Message From One Channel To Another Channel 
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @LegendRobot</b>"""
+<b>Bot Is Made By @bot_hub_telegram</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -55,10 +55,10 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/LegendUnion'>Legend Unioñ</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/LegendRobot'>Legend</a>
+<b>📢 Channel :</b> <a href='https://t.me/bot_hub_telegram'>Sandeep</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/sandeep_library'>Sandeep</a>
 
-<b>♻️ Bot Made By :</b> @LegendUnion"""
+<b>♻️ Bot Made By :</b> @sandeep_library"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
