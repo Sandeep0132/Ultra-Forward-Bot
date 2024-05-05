@@ -1,7 +1,7 @@
-<img src="https://graph.org/file/7f7dcc89135e7d6c64bbb.jpg" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/a74ab6e4828a71aacdc12.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/MadflixForwardBot" target="/blank"> Ultra Forward Bot </a></>
+ <b><a href="https://t.me/LegendRobot" target="/blank"> Ultra Forward Bot </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
@@ -78,12 +78,9 @@ restart - Restart the bot (Admin Only)
 ### ❤️ RESPECTING ❤️
 - [amangautamdev](https://github.com/amangautamdev)
 
-### 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
-- [Jishu Botz](https://t.me/JishuBotz)
 
 ### 💕 CONTACT DEVELOPER 💕
-- [Jishu Developer](https://t.me/LegendRobot)
+- [Legend Developer](https://t.me/LegendRobot)
 - [Legend Official](https://t.me/LegendUnion)
 
 ### ☕ BUY ME A COFFEE ☕
